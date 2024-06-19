@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.nottingham.cryptography.LateAADTests" tests="5" skipped="5" failures="0" errors="0" timestamp="2024-04-23T10:08:34" hostname="DESKTOP-6BBGOFO" time="0.001">
+  <properties/>
+  <testcase name="LateAAD10MBTest()" classname="uk.ac.nottingham.cryptography.LateAADTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="LateAADMultiBlockTestThree()" classname="uk.ac.nottingham.cryptography.LateAADTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="LateAADMultiBlockTestOne()" classname="uk.ac.nottingham.cryptography.LateAADTests" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="LateAADMultiBlockTestTwo()" classname="uk.ac.nottingham.cryptography.LateAADTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="LateAADPartialBlockTest()" classname="uk.ac.nottingham.cryptography.LateAADTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

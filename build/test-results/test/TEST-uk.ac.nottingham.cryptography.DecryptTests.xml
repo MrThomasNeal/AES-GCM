@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.nottingham.cryptography.DecryptTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-04-23T10:08:34" hostname="DESKTOP-6BBGOFO" time="0.004">
+  <properties/>
+  <testcase name="DecryptMultiPTPartialAADBlockTest()" classname="uk.ac.nottingham.cryptography.DecryptTests" time="0.001"/>
+  <testcase name="DecryptMultiBlockTest()" classname="uk.ac.nottingham.cryptography.DecryptTests" time="0.0"/>
+  <testcase name="DecryptSingleBlocksTest()" classname="uk.ac.nottingham.cryptography.DecryptTests" time="0.0"/>
+  <testcase name="DecryptMultiThenPartialBlockTest()" classname="uk.ac.nottingham.cryptography.DecryptTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
